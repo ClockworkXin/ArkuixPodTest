@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "ArkuiPodTest"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "arkui-x frameworks."
   spec.description  = <<-DESC
   arkui-x platform frameworks.
